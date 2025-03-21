@@ -18,7 +18,7 @@ def create_email_heading(heading):
 
 def create_email_body(body_content):
     """
-    Create the body section for an HTML email with proper paragraph formatting.
+    Create the body section for an HTML email with proper paragraph formatting
     
     :param body_content: The main content of the email
     :return: HTML for the body section with formatted paragraphs
